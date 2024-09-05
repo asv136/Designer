@@ -1,0 +1,168 @@
+  Adapters
+      webMethods Adapter 10.3 for JDBC
+      webMethods WebSphere MQ Adapter 6.5
+          Program Files
+  Asset Build Environment 10.15
+  Broker
+      Server 10.15
+      C API 10.15
+      Java API 10.15
+  Database Configuration
+      Database Component Configurator 10.15
+      Business Rules Engine Database Scripts 10.15
+      Integration Server and Microservices Runtime Database Scripts 10.15
+      Integration Server and Microservices Runtime Embedded Database Scripts 10.15
+      Monitor Database Scripts 10.15
+      My webMethods Server Database Scripts 10.15
+      Optimize Central Configuration Database Scripts 10.15
+      Optimize Database Scripts 10.15
+      Process Engine Database Scripts 10.15
+  Infrastructure
+      Asset Build Environment Scripts
+          ActiveTransfer Assets 10.15
+          AgileApps Assets 10.16
+          API Gateway Assets 10.15
+          Application Platform Assets 10.15
+          BPM Assets 10.15
+          Broker Assets 10.15
+          Business Rules Assets 10.15
+          CloudStreams Assets 10.15
+          Command Central Assets 10.15
+          Digital Event Services Assets 10.15
+          Event Routing Assets 10.15
+          Integration Server Assets 10.15
+          My webMethods Server Assets 10.15
+          Optimize Assets 10.15
+          Trading Networks Assets 10.15
+          Universal Messaging Assets 10.15
+      Event Routing Event Type Store 10.15
+      Integration Server
+          Adapter Runtime 10.15
+          Flat File 10.7
+          Integration Core 10.15
+      Java
+          Java Package Core 11.0
+      Libraries
+          Shared Libraries 10.15
+          BigMemory Max Libraries 4.4
+          Broker Libraries 10.15
+          CentraSite Libraries 10.11
+          Common Libraries for OpenSSL 10.15
+          Composite Applications Runtime 10.15
+          Database Component Configurator Core 10.15
+          Database Driver Libraries 10.15
+          Designer Libraries 10.15
+          Digital Event Services 10.15
+          Glue Libraries 8.0
+          Installer Libraries 10.15
+          Migration Framework Libraries 10.15
+          My webMethods Server Libraries 10.15
+          Optimize Libraries 10.15
+          Security Libraries 10.15
+          Third-Party Libraries
+              Application Server Libraries 10.15 for Glassfish
+              Base Security Libraries 10.15
+              Data Modeling Libraries 10.15
+              DBMS Libraries 10.15
+              Framework Libraries 10.15 for Spring
+              Logging Libraries for Java 10.15
+              Multi-Purpose Libraries 10.15 for Java
+              Swagger Libraries 10.15
+              Third-Party Libraries 10.15 for Apache
+              Tool for Apache Ant 10.15
+              Tool for Java Service Wrapper 10.15
+              Web Service Libraries 10.15
+              Web Servlet Libraries 10.15
+              XML Binding Libraries 10.15 for JAXB
+              XML Parser Libraries 10.15
+          Universal Messaging Libraries 10.15
+      License
+          Agreement 10.15
+          Library for Java
+          Verifier
+      Platform Manager 10.15
+      Platform Manager Plug-ins
+          Adapter Plug-in 10.15
+          Broker Plug-in 10.15
+          Event Routing Plug-in 10.15
+          Integration Server Plug-ins
+              Server Plug-in 10.15
+              Application Platform Plug-in 10.15
+              Monitor Plug-in 10.15
+              Rules Engine Plug-in 10.15
+              Task Client Support Plug-in 10.15
+              Task Engine Support Plug-in 10.15
+          My webMethods Server Plug-ins
+              Server Plug-in 10.15
+              Business Rules UI Plug-in 10.15
+              Task Engine and UI Plug-in 10.15
+      Shared Platform
+          Platform 10.15
+          Bundles
+              Shared Bundles 10.15
+              Application Platform Runtime Bundles 10.15
+              BigMemory Max Bundles 4.4
+              Broker Bundles 10.15
+              Central Security Bundles (ZSL)
+                  ZSL esapi Bundle 10.15
+              Common Landscape Asset Registry 10.15
+              Common Monitoring Provider Bundle
+                  API 10.15
+                  Implementations 10.15
+              Composite Applications Runtime Bundles 10.15
+              Database Driver Bundles 10.15
+              Deployer and Asset Build Environment Bundles 10.15
+              Digital Event Services
+                  Runtime Bundles 10.15
+                  Shared Bundles 10.15
+              Event Routing
+                  Runtime Bundles 10.15
+                  Shared Bundles 10.15
+              Glue Bundles 8.0
+              Installer Bundles 10.15
+              Integration Server Bundles 10.15
+              License Validator Bundles
+              Universal Messaging Bundles 10.15
+              Web Services Stack Bundles 10.15
+      Shared User Interface
+          Monitor Support 10.15
+          Optimize Support 10.15
+      Web Services Stack
+          Core Files 10.15
+  Integration Server
+      Server 10.15
+      Application Platform Support 10.15
+      Business Console Support 10.15 (Deprecated)
+      Task Engine 10.15
+  Integration Server or Microservices Runtime Libraries
+      Common Directory Service Support 10.15
+      Custom Character Encoding Support 10.15
+      External RDBMS Support 10.15
+  Integration Server or Microservices Runtime Packages
+      Central User Management 10.15
+      Deployer 10.15
+      Deployment Support for AgileApps 10.16
+      Deployment Support for CloudStreams 10.15
+      Deployment Support for Universal Messaging  10.15
+      Deployment Support for webMethods Broker 10.15
+      Logging Utility 9.6
+      Monitor 10.15
+      Process Engine 10.15
+      Process Model Support 10.15
+      Rules Engine 10.15
+      Task Client Support 10.15
+  Metering
+      Metering Agent 10.15
+  My webMethods Server
+      Server 10.15
+      Business Administration 10.15
+      Business Console 10.15 (Deprecated)
+      Diagnostic Tools 10.15
+      Task Engine 10.15
+  My webMethods User Interfaces
+      Broker UI 10.15
+      Business Console UI 10.15 (Deprecated)
+      Business Rules UI 10.15
+      Central Configuration UI 10.15
+      Integration Server UI 10.15
+      Monitor UI 10.15
